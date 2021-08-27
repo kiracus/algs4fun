@@ -6,3 +6,7 @@ w00 - hello
 w01 - percolate  // still got problem on this one
 
 w02 - queues
+
+w03 - colliear
+
+w04 - 8puzzle
