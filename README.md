@@ -10,3 +10,5 @@ w02 - queues
 w03 - colliear
 
 w04 - 8puzzle
+
+w05 - kdtrees
